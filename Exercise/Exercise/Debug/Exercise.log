@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ohura Kazuma\Desktop\Exercise\Exercise\Source.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Exercise.vcxproj -> C:\Users\Ohura Kazuma\Desktop\Exercise\Debug\Exercise.exe
